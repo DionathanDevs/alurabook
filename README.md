@@ -1,2 +1,2 @@
-# Alurabook
-📘 Projeto realizado no Curso de Responsividade Mobile - First na plataforma Alura
+# AluraBook
+📚 Projeto feito durante o curso de Responsividade com Mobile-First na plataforma Alura.
